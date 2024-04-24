@@ -19,8 +19,11 @@ public class Practica3GITHUB {
         int a=5;
         int b=6;
         int suma=0;
+	int multiplicacion=0;
         suma= a+b;
+	multiplicacion = a*b;
         System.out.print("Suma:" + suma);
+	System.out.print("Multiplicacion:" + multiplicacion);
     }
     
 }
