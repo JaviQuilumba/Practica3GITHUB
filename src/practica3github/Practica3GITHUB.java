@@ -28,6 +28,7 @@ public class Practica3GITHUB {
 	System.out.print("Multiplicacion:" + multiplicacion);
         System.out.print("Division:" + division);
         System.out.print("Resta:" + resta);
+         System.out.print("Resta33:" + resta);
 
         // COMENTARIO DE PRUEBA CONVENTIONAL COMMIT
     }
