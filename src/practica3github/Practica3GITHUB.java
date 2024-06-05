@@ -22,8 +22,10 @@ public class Practica3GITHUB {
 	int multiplicacion=0;
         suma= a+b;
 	multiplicacion = a*b;
+        division = a/b;
         System.out.print("Suma:" + suma);
 	System.out.print("Multiplicacion:" + multiplicacion);
+        System.out.print("Division:" + division);
 
         // COMENTARIO DE PRUEBA CONVENTIONAL COMMIT
     }
